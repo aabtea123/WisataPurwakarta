@@ -1,0 +1,7 @@
+# Project exclude paths
+/app/
+/caches/
+/daemon/
+/gradle/
+/native/
+/wrapper/
